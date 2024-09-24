@@ -1,4 +1,5 @@
-// ignore: file_names
+// ignore_for_file: file_names
+
 import 'package:dsp_tim412_youth_app/screens/Profile_screen.dart';
 import 'package:dsp_tim412_youth_app/screens/education_screen.dart';
 import 'package:dsp_tim412_youth_app/screens/Ecommerce.dart';
@@ -20,7 +21,7 @@ class _HomepageState extends State<Homepage> {
   // List of screens for navigation
   final List<Widget> _screens = [
     const Welcome(),
-    TipsScreen(),
+    const TipsScreen(),
     /*const CalculatorScreen(), */
     const EcommerceScreen(),
     const EducationScreen(),
