@@ -8,7 +8,7 @@ The login authentification uses a firebase database as for now.
 1. Host it using any appplication.
 2. Intergrate google sign in .
 3. Ecommerce app. # Smokies and mayais discount prices.
-4.
+4. Intergrate a firebase datacase.
 
 
    ...............................................................**By** .....................   **Chief Developer , BENSON WATHIGO**...............................................................................................................................................
