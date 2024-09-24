@@ -5,7 +5,7 @@ Anyone is welcome to make changes where they see fit provided they got the skill
 The login authentification uses a firebase database as for now. 
 
 #Future plans 
-1. Host it using netifly or any other appplication.
+1. Host it using any appplication.
 2. Intergrate google sign in .
 3. Ecommerce app. # Smokies and mayais discount prices.
 4.
