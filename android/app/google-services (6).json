@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449220865871",
+    "project_id": "plp-project-efbc3",
+    "storage_bucket": "plp-project-efbc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449220865871:android:c2a31a930eebc741b19f3a",
+        "android_client_info": {
+          "package_name": "com.example.dsp_tim412_youth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6HZNIWH7ayKR8VMFqyaXXSEGGFQ7-Tr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
