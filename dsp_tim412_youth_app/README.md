@@ -4,13 +4,17 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This application has been made by a team of developers from st.Dominic Savio YSC. 
+It is a dart flutter aplllication designed by the youths for the youths. 
+We plan one intergrating this application with a number of other aplications so that it can be a one serve all kind of application. 
+Anyone is welcome to make changes where they see fit provided they got the skills and what it takes to make this application a succeess. 
+The login authentification uses a firebase database as for now. 
 
-A few resources to get you started if this is your first Flutter project:
+#Future plans 
+1. Host it using any appplication.
+2. Intergrate google sign in .
+3. Ecommerce app. # Smokies and mayais discount prices.
+4. Intergrate a firebase datacase.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ...............................................................**By** .....................   **Chief Developer , BENSON WATHIGO**...............................................................................................................................................
